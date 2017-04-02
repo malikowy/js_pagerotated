@@ -1,0 +1,52 @@
+.container {
+  background : red;
+  width      : $page-width;
+  height     : $page-height;
+  margin     : 0 auto;
+  transform  : rotate(-45deg) translate(-80px, 80px);
+  &__rotated {
+    background : blue;
+    .navbar {
+      background : green;
+      ul {
+        list-style      : none;
+        display         : flex;
+        justify-content : space-around;
+        margin          : 0;
+        padding         : 0;
+        li {
+          flex       : 1;
+          border     : solid 1px purple;
+          text-align : center;
+          cursor     : pointer;
+          }
+        }
+      }
+    }
+  .container__content {
+    overflow : hidden;
+    width    : $container-width;
+    height   : $container-height;
+
+    .content {
+      background : greenyellow;
+
+      &.div1 {
+        display : block;
+        @extend .rotateDiv;
+        }
+
+      &.div2 {
+        display : none;
+        @extend .rotateDiv;
+        }
+      &.div3 {
+        display : none;
+        @extend .rotateDiv;
+        }
+
+      h1 { margin : 0; }
+
+      }
+    }
+  }

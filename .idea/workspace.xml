@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="428de389-02d7-4098-8419-9e4ee74afc41" name="Default" comment="first upload">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/black.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/js_pagerotated.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.yo-rc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/page.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/test.js" />
-    </list>
+    <list default="true" id="428de389-02d7-4098-8419-9e4ee74afc41" name="Default" comment="first upload" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -73,8 +47,8 @@
                 <state relative-caret-position="187">
                   <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
                   <folding>
-                    <marker date="1491162362942" expanded="true" signature="728:1141" ph="..." />
-                    <marker date="1491162362942" expanded="true" signature="821:1083" ph="..." />
+                    <marker date="1491162861685" expanded="true" signature="728:1141" ph="..." />
+                    <marker date="1491162861685" expanded="true" signature="821:1083" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -402,12 +376,12 @@
       <option name="presentableId" value="Default" />
       <updated>1491156794606</updated>
       <workItem from="1491156796348" duration="422000" />
-      <workItem from="1491157286248" duration="5010000" />
+      <workItem from="1491157286248" duration="5161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5432000" />
+    <option name="totallyTimeSpent" value="5583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -476,8 +450,8 @@
         <state relative-caret-position="187">
           <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
           <folding>
-            <marker date="1491162362942" expanded="true" signature="728:1141" ph="..." />
-            <marker date="1491162362942" expanded="true" signature="821:1083" ph="..." />
+            <marker date="1491162861685" expanded="true" signature="728:1141" ph="..." />
+            <marker date="1491162861685" expanded="true" signature="821:1083" ph="..." />
           </folding>
         </state>
       </provider>

@@ -1,3 +1,4 @@
+// _page.scss
 .container {
   background : red;
   width      : $page-width;
@@ -19,6 +20,8 @@
           border     : solid 1px purple;
           text-align : center;
           cursor     : pointer;
+          height     : $navbar-height;
+          box-sizing : border-box;
           }
         }
       }

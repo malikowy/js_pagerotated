@@ -1,0 +1,14 @@
+// _mixins.scss
+// VARIABLES
+$page-width : 500px;
+$page-height : 500px;
+$navbar-height: 20px;
+$container-width : $page-width;
+$container-height : calc(#{$page-height} - #{$navbar-height});
+
+// EXTENDS
+.rotateDiv {
+  transform : rotate(45deg);
+  height: $container-height;
+  width: $container-width;
+  }
